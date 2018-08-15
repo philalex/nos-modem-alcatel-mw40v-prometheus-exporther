@@ -1,0 +1,1 @@
+{ "jsonrpc": "2.0", "result": { "chg_state": 1, "bat_cap": 100, "bat_level": 4, "NetworkType": 8, "NetworkName": "NOS", "Roaming": 1, "Domestic_Roaming": 1, "SignalStrength": 0, "ConnectionStatus": 2, "Conprofileerror": 1, "SmsState": 2, "WlanState": 1, "curr_num": 5, "TotalConnNum": 6 }, "id": "13.4" }

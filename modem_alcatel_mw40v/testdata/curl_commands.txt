@@ -1,0 +1,4 @@
+curl -X POST -d '{"jsonrpc":"2.0","method":"GetSystemStatus","params":null,"id":"13.4"}' http://192.168.1.1/jrd/webapi?api=GetSystemStatus > getSystemStatus.json
+curl -X POST -d '{"jsonrpc":"2.0","method":"GetSystemInfo","params":null,"id":"13.1"}' http://192.168.1.1/jrd/webapi?api=GetSystemInfo > getSystemInfo.json
+curl -X POST -d '{"jsonrpc":"2.0","method":"GetConnectionState","params":null,"id":"3.1"}' http://192.168.1.1/jrd/webapi?api=GetConnectionState > getConnectionState.json
+curl -X POST -d '{"jsonrpc":"2.0","method":"GetSMSStorageState","params":null,"id":"6.4"}' http://192.168.1.1/jrd/webapi?api=GetSMSStorageState > getSMSStorageState.json
