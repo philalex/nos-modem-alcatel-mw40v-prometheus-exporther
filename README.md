@@ -1,7 +1,8 @@
 # Prometheus exporter for Alcatel modem MW40v
 Prometheus exporter for Alcatel modem MW40v - tested with a NOS (http://www.nos.pt) modem
+![Alcatel MW40v](modem.jpg)
 
-# Configration
+# Configuration
 Configuration is done by environment variables:
 * LOG_LEVEL: set log level, accepted values: Debug, Info, Warning, Error, Fatal and Panic. By default info
 * MODEM_URL: modem url, by default http://192.168.1.1
