@@ -1,0 +1,1 @@
+{ "jsonrpc": "2.0", "result": { "ConnectionStatus": 2, "Conprofileerror": 0, "IPv4Adrress": "89.180.91.116", "IPv6Adrress": "0::0", "Speed_Dl": 67, "Speed_Ul": 83, "DlRate": 100000000, "UlRate": 50000000, "ConnectionTime": 1676, "UlBytes": 1176744, "DlBytes": 2656630 }, "id": "3.1" }
